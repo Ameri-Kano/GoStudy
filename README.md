@@ -34,6 +34,7 @@ Tucker의 Go 언어 프로그래밍 동영상 강의 및 책을 공부하며 Go�
 
 
 - [x] 29장 Go 언어로 만드는 웹 서버
+- [x] 30장 RESTful API 서버 만들기
 
 
 - [ ] Go Generic 프로그래밍
